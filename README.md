@@ -1,6 +1,6 @@
-# AI-Voice-Assistant-Project
+# AI Voice Assistant Project
 
-# Voice Assistant
+
 
 A Python-based voice assistant that accepts spoken commands, responds using speech, provides the current date and time, and allows users to set voice-based reminders.
 
